@@ -3,6 +3,11 @@
 > 面向 [`Yunffu/yijiyixian-v2`](https://github.com/Yunffu/yijiyixian-v2)（一季一鲜助农电商平台）的
 > **接口自动化测试工程**：以「业务不变量」为断言主轴，同一套测试 harness 对照
 > **Node 原版 SUT** 与 **Python/FastAPI 重写版 SUT**，验证迁移是否保持语义等价。
+>
+> 📅 **工程启动 2026-11-08**　｜　👤 作者：**Yunffu**　｜　🔒 **保留所有权利，严禁商用与抄袭创意**　｜
+> 存证：[`MANIFEST.sha256`](MANIFEST.sha256) · 版权：[`LICENSE`](LICENSE)
+>
+> 校验：`sha256sum -c MANIFEST.sha256`（清单随里程碑重新生成）
 
 | | |
 |---|---|

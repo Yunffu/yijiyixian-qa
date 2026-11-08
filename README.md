@@ -8,6 +8,7 @@
 |---|---|
 | 项目名称 | 一季一鲜接口自动化测试工程 |
 | 角色 | 独立开发（用例设计 → 脚本实现 → 缺陷定位 → 回归维护） |
+| 作者 | **Yunffu**（`@Yunffu`） |
 | 被测对象 | HTTP 接口（Express 原版 / FastAPI 重写版） |
 | 技术栈 | Python + pytest + requests + FastAPI + SQLite + PyJWT + bcrypt |
 | 仓库 | `Yunffu/yijiyixian-qa` |
@@ -64,9 +65,11 @@
 
 ## 4. 版权与使用声明
 
-- 本测试工程是作者**对自己作品**（一季一鲜助农电商平台）的质量建设，版权归两位作者共同所有。
-- 被测产品的**创意、内容、素材等一切权利归两位作者共同所有**，**严禁商用、严禁抄袭创意**；
-  完整条款见 [`yijiyixian` 仓库的 LICENSE](https://github.com/Yunffu/yijiyixian/blob/main/LICENSE)。
+- **本测试工程为个人作品，版权归 Yunffu 所有**（用例设计、断言框架、脚本、文档）。
+- 被测产品「一季一鲜助农电商平台」的**创意、内容、素材等一切权利归原作品两位作者共同所有**
+  （原版为小组 2 人于 2026 年春季完成的计算机设计大赛参赛作品），
+  **严禁商用、严禁抄袭创意**；完整条款见
+  [`yijiyixian` 仓库的 LICENSE](https://github.com/Yunffu/yijiyixian/blob/main/LICENSE)。
 - 本仓库仅供学习、研究与非商业展示；引用须标注作者与出处。
 
 ---

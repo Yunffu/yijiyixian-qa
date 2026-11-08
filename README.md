@@ -62,7 +62,16 @@
 
 ---
 
-## 4. 快速开始
+## 4. 版权与使用声明
+
+- 本测试工程是作者**对自己作品**（一季一鲜助农电商平台）的质量建设，版权归两位作者共同所有。
+- 被测产品的**创意、内容、素材等一切权利归两位作者共同所有**，**严禁商用、严禁抄袭创意**；
+  完整条款见 [`yijiyixian` 仓库的 LICENSE](https://github.com/Yunffu/yijiyixian/blob/main/LICENSE)。
+- 本仓库仅供学习、研究与非商业展示；引用须标注作者与出处。
+
+---
+
+## 5. 快速开始
 
 ```bash
 python -m venv .venv && source .venv/Script/activate   # Windows

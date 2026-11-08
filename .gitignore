@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
-scratch/
+scratch/*
+!scratch/day01.py
 .venv/
 .env
 report/*.html
